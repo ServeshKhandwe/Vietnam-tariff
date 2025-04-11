@@ -51,7 +51,7 @@ Note: You'll need to export this key every time you open a new terminal session.
 
 1. Activate the Conda environment:
 ```bash
-conda activate vt-zip
+conda activate vietnam-tariff
 ```
 
 2. Run the Streamlit app:
